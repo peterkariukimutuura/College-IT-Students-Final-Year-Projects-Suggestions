@@ -1,8 +1,8 @@
 ## College-Final-Year-Projects-Suggestions 
 -Examples Of Projects You can Do for Your College Final Year Project
 
-..*    Bus Management System Final Year Project
-..*    Cattle management system final year
+    Bus Management System Final Year Project
+    Cattle management system final year
     Clothes shop management system Final Year Project
     Complaint management system Final Year Project
     Construction works management system Final Year Project
